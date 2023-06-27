@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Teleamazonas (ECU)(TA)(180)">
+    <display-name lang="es">Teleamazonas (ECU)(TA)(180)</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Teleamazonas HD (ECU)(TAHD)(180)">
+    <display-name lang="es">Teleamazonas HD (ECU)(TAHD)(180)</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="TC Television (ECU)(TC)(181)">
+    <display-name lang="es">TC Television (ECU)(TC)(181)</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Ecuavisa (ECU)(EV)(182)">
+    <display-name lang="es">Ecuavisa (ECU)(EV)(182)</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Ecuavisa HD (ECU)(ECVIHD)(182)">
+    <display-name lang="es">Ecuavisa HD (ECU)(ECVIHD)(182)</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Gamavisión (ECU)(GAMA)(183)">
+    <display-name lang="es">Gamavisión (ECU)(GAMA)(183)</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="RTS Red Telesistemas (ECU)(RTS)(185)">
+    <display-name lang="es">RTS Red Telesistemas (ECU)(RTS)(185)</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Ecuador TV (ECU)(ECTV)(187)">
+    <display-name lang="es">Ecuador TV (ECU)(ECTV)(187)</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Telerama (ECU)(TLRM)(188)">
+    <display-name lang="es">Telerama (ECU)(TLRM)(188)</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Oromar(ORO)(190)">
+    <display-name lang="es">Oromar(ORO)(190)</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Televicentro (ECU)(TVCE)(192)">
+    <display-name lang="es">Televicentro (ECU)(TVCE)(192)</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+  <channel id="Manavision(MANA)(194)">
+    <display-name lang="es">Manavision(MANA)(194)</display-name>
+    <url>http://www.directv.com.ec</url>
+  </channel>
+</tv>
